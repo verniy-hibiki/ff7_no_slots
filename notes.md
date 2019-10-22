@@ -18,10 +18,7 @@ Pick all 3 potions (**7** total)
 
 #### Guard Scorpion (800 HP)  
   
-| Character | Action |
-| :-: | :-: |
-| **Cloud** | Bolt (Braver pre-tail) |
-| **Barret** | Attack |
+Cloud Bolt, Barret Attack
   
 **Enc 4** - 3x Grunt (after the jump)  
 Aps Setup  
@@ -29,5 +26,10 @@ Aps Setup
 #### Shop
 | Sell | Buy |
 | :-: | :-: |
-| Everything | 21x Grenade | (1430 Gil)  
+| Everything | 21x Grenade |
+1430 Gil  
   
+#### Aps (1800 HP)
+  
+**Preempt**: 3x Grenade + Braver + 4x Grenade  
+**No Preemptive**: Bolt + 2x Grenade + Braver + 2x Grenade + Grenades
