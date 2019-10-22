@@ -16,9 +16,17 @@ Pick all 3 potions (**7** total)
 **Enc 3** - Sweeper (before Guard Scorpion)  
 **Walk 7 steps**  
 
-#### Guard Scorpion  
+#### Guard Scorpion (800 HP)  
   
 | Character | Action |
 | :-: | :-: |
 | **Cloud** | Bolt (Braver pre-tail) |
 | **Barret** | Attack |
+  
+**Enc 4** - 3x Grunt (after the jump)  
+Aps Setup  
+  
+#### Shop
+| Sell | Buy |
+| :-: | :-: |
+| Everything | 21x Grenade |
