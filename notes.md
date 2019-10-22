@@ -15,8 +15,10 @@ Pick all 3 potions (**7** total)
 **Enc 2** - 2x 1st Ray  
 **Enc 3** - Sweeper (before Guard Scorpion)  
 **Walk 7 steps**  
+
+#### Guard Scorpion  
   
-| **Guard Scorpion** | Action |
+| Character | Action |
 | :-: | :-: |
 | **Cloud** | Bolt (Braver pre-tail) |
 | **Barret** | Attack |
