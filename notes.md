@@ -29,4 +29,5 @@ Aps Setup
 #### Shop
 | Sell | Buy |
 | :-: | :-: |
-| Everything | 21x Grenade |
+| Everything | 21x Grenade | (1430 Gil)  
+  
