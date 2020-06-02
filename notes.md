@@ -1,4 +1,4 @@
-# FF7 Any% (Slots) route  
+# FF7 Any% (No Slots) route  
   
 ## Midgar  
   
